@@ -1,5 +1,7 @@
 ## "Tudo que acontecer, Acontece"
 
+
+## Oi eu sou o Artthur gosto de volêi e de ler e estou atualmente estudando no alura
 <!--
 **Arthphel/Arthphel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
