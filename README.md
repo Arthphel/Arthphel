@@ -1,4 +1,4 @@
-## "Tudo que acontecer, Acontece"
+## "aconteça o que acontecer, acontece"
 ## Oi eu sou o Artthur gosto de volêi e de ler e estou atualmente estudando no alura
 ## idade:15
 ## jogo mine, league of legends e zzz
