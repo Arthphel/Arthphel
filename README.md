@@ -2,7 +2,7 @@
 ## -Ola eu sou o Artthur gosto de volêi e de ler e estou atualmente estudando no alura
 ## -Idade:15
 ## -Gosto bastante dos livros ferinos e percy jackson
-## ![](https://media1.tenor.com/m/R6Xo6bpE1dQAAAAC/naruto-engra%C3%A7ado.gif)  ![](https://media1.tenor.com/m/FLvOIN7OABkAAAAC/t-t.gif)  ![](https://media1.tenor.com/m/FTlUBeNUpwAAAAAC/edward-ed.gif)
+## ![](https://media1.tenor.com/m/R6Xo6bpE1dQAAAAC/naruto-engra%C3%A7ado.gif)  ![](https://media1.tenor.com/m/FLvOIN7OABkAAAAC/t-t.gif)  
 ## 
 <!--
 **Arthphel/Arthphel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
